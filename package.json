@@ -13,6 +13,7 @@
     "tslib": "^2.3.0"
   },
   "devDependencies": {
+    "@faker-js/faker": "^7.2.0",
     "@nrwl/cli": "14.2.1",
     "@nrwl/eslint-plugin-nx": "14.2.1",
     "@nrwl/express": "14.2.1",
